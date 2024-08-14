@@ -11,6 +11,7 @@ Interpreter. <br><br>
 ![image](https://github.com/user-attachments/assets/11073862-f2b2-4e78-9dca-62394246718b)
 
 ## How to Use Interpreter
+*Replace **example.rpal** in the below commands with your RPAL code.* <br><br>
 Building AST 
 ```
 python myrpal.py example.rpal -ast
