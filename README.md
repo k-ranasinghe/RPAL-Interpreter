@@ -13,7 +13,7 @@ This repository contains an implementation of an interpreter for RPAL (Right-ref
 
 
 ## Project Overview
-This project was developed as part of the Semester 4 Programming Languages Module under the course code In21-S4-CS3513. The interpreter is capable of reading an input file containing an RPAL program, tokenizing the program, building a parse tree, generating an Abstract Syntax Tree (AST), standardizing the AST, and finally evaluating the program using a Control Stack Evaluation (CSE) Machine. The project is structured into various components, each of which has been implemented in Python.
+This project was developed as part of the Semester 4 Programming Languages Module. The interpreter is capable of reading an input file containing an RPAL program, tokenizing the program, building a parse tree, generating an Abstract Syntax Tree (AST), standardizing the AST, and finally evaluating the program using a Control Stack Evaluation (CSE) Machine. The project is structured into various components, each of which has been implemented in Python.
 
 ![Project Flow](https://github.com/user-attachments/assets/11073862-f2b2-4e78-9dca-62394246718b)
 
